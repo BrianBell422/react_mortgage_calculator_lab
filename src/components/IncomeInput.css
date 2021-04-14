@@ -1,0 +1,42 @@
+.income_input {
+    display: grid;
+    margin: 10px 50px;
+}
+
+#Salary-input {
+    margin: 5px 5px;
+    padding: 10px 0px;
+    border: none;
+    border-bottom: 3px rgb(85, 130, 156)dotted;
+}
+
+#Salary2-input {
+    margin: 5px 5px;
+    padding: 10px 0px;
+    border: none;
+    border-bottom: 3px rgb(85, 130, 156)dotted;
+}
+
+#deposit {
+    margin: 5px 5px;
+    padding: 10px 0px;
+    border: none;
+    border-bottom: 3px rgb(85, 130, 156)dotted;
+}
+
+#commitments {
+    margin: 5px 5px;
+    padding: 10px 0px;
+    border: none;
+    border-bottom: 3px rgb(85, 130, 156)dotted;
+}
+
+#button {
+    margin-top: 5px;
+    padding: 10px 0px;
+    border-radius: 5px;
+    color: white;
+    border: none;
+    background-color: rgb(85, 130, 156);
+}
+
